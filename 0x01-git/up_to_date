@@ -1,4 +1,4 @@
 git fetch origin
 git checkout main
 get merge origin/main
-git push origin main
+git pull origin main
